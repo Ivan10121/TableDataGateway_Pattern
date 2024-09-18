@@ -1,2 +1,2 @@
 # TableDataGateway_Pattern
-A Client and Employee Management System that connects to a MySQL database. The system allows for retrieving and updating information about customers and employees through a well-structured design using the Table Data Gateway design pattern.
+This project implements a Client and Employee Management System that connects to a MySQL database. The system allows for retrieving and updating information about customers and employees through a well-structured design using the Table Data Gateway design pattern. The gateway encapsulates database queries, making the codebase modular, easier to maintain, and scalable for future updates.
